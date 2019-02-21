@@ -378,9 +378,11 @@ pre { margin-top: 0; margin-bottom: 0; font-family: "SFMono-Regular", Consolas, 
 .text-gray-light { color: #6a737d !important; }
 
 /* Set the text color to $text-gray */
+.text-gray:hover{ color: white !important; }
 .text-gray { color: white !important; }
 
 /* Set the text color to $text-gray-dark */
+.text-gray-dark:hover{color: #ffcc00 !important;}
 .text-gray-dark { color: #24292e !important; }
 
 /* Set the text color to $text-green */
