@@ -27,14 +27,15 @@ body {
   color: white !important;
 }
 
-a:hover{
+a:hover { 
   color: #ffcc00 !important;
   text-decoration: none !important;
+  fill: #ffcc00 !important; 
 }
-
-a{
+a {
   color: white !important;
   text-decoration: none !important;
+  fill: white !important; 
 }
 
 .link-gray-dark:hover{
