@@ -23,11 +23,6 @@ progress { vertical-align: baseline; }
 /** Add the correct display in IE 10-. 1. Add the correct display in IE. */
 template, [hidden] { display: none; }
 
-.github-component:hover {
-  transform: rotate(45deg) !important;
-  transition: 5s !important;
-}
-
 /* Links ========================================================================== */
 /** Remove the gray background on active links in IE 10. */
 a { background-color: transparent; /* 1 */ }
