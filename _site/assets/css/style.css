@@ -25,7 +25,7 @@ template, [hidden] { display: none; }
 
 .github-component:hover {
   transform: rotate(360deg) !important;
-  transition: 2s !important;
+  transition: 0.1s !important;
 }
 
 /* Links ========================================================================== */
