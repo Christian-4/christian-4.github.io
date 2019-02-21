@@ -407,16 +407,15 @@ pre { margin-top: 0; margin-bottom: 0; font-family: "SFMono-Regular", Consolas, 
 
 .bg-pending { color: #dbab09 !important; }
 
-path:hover{
+.link-gray:hover{
+  color: #ffcc00 !important;
   fill: #ffcc00 !important;
 }
 
-path {
+.link-gray{
+  color: white !important;
   fill: white !important;
 }
-
-.link-gray:hover { color: #ffcc00 !important; }
-.link-gray { color: white !important; }
 
 .link-gray-dark:hover { color: #ffcc00 !important; }
 .link-gray-dark { color: white !important; }

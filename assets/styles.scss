@@ -15,10 +15,12 @@ body {
 
 .link-gray:hover{
   color: #ffcc00 !important;
+  fill: #ffcc00 !important;
 }
 
 .link-gray{
   color: white !important;
+  fill: white !important;
 }
 
 .text-gray{
@@ -41,12 +43,4 @@ a{
 
 .link-gray-dark{
   color: white !important;
-}
-
-path:hover{
-  fill: #ffcc00 !important;
-}
-
-path {
-  fill: white !important;
 }
