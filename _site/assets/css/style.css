@@ -24,8 +24,8 @@ progress { vertical-align: baseline; }
 template, [hidden] { display: none; }
 
 .github-component:hover {
-  transform: rotate(360deg) !important;
-  transition: 0.1s !important;
+  transform: rotate(45deg) !important;
+  transition: 5s !important;
 }
 
 /* Links ========================================================================== */
