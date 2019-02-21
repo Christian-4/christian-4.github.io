@@ -378,7 +378,7 @@ pre { margin-top: 0; margin-bottom: 0; font-family: "SFMono-Regular", Consolas, 
 .text-gray-light { color: #6a737d !important; }
 
 /* Set the text color to $text-gray */
-.text-gray { color: #586069 !important; }
+.text-gray { color: white !important; }
 
 /* Set the text color to $text-gray-dark */
 .text-gray-dark { color: #24292e !important; }
@@ -405,10 +405,10 @@ pre { margin-top: 0; margin-bottom: 0; font-family: "SFMono-Regular", Consolas, 
 
 .bg-pending { color: #dbab09 !important; }
 
-.link-gray { color: #586069 !important; }
+.link-gray { color: white !important; }
 .link-gray:hover { color: #0366d6 !important; }
 
-.link-gray-dark { color: #24292e !important; }
+.link-gray-dark { color: white !important; }
 .link-gray-dark:hover { color: #0366d6 !important; }
 
 /* Set the link color to $text-blue on hover Useful when you want only part of a link to turn blue on hover */
