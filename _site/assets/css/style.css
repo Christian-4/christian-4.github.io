@@ -132,7 +132,7 @@ input, select, textarea, button { font-family: inherit; font-size: inherit; line
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; font-size: 14px; line-height: 1.5; color: #24292e; background-color: #fff; }
 
 a { color: white !important; text-decoration: none !important; }
-a:hover { color: #ffcc00 !important; text-decoration: underline !important; }
+a:hover { color: #ffcc00 !important; text-decoration: none !important; }
 
 b, strong { font-weight: 600; }
 

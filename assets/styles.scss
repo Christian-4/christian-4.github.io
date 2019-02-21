@@ -17,14 +17,32 @@ body {
   color: white !important;
 }
 
+.link-gray:hover{
+  color: #ffcc00 !important;
+}
+
 .text-gray{
   color: white !important;
 }
 
+.text-gray:hover{
+  color: #ffcc00 !important;
+}
+
 a{
   color: white !important;
+  text-decoration: none !important;
+}
+
+a:hover{
+  color: #ffcc00 !important;
+  text-decoration: none !important;
 }
 
 .link-gray-dark{
   color: white !important;
+}
+
+.link-gray-dark:hover{
+  color: #ffcc00 !important;
 }
