@@ -131,8 +131,8 @@ input, select, textarea, button { font-family: inherit; font-size: inherit; line
 
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; font-size: 14px; line-height: 1.5; color: #24292e; background-color: #fff; }
 
-a { color: #0366d6; text-decoration: none; }
-a:hover { text-decoration: underline; }
+a { color: white !important; text-decoration: none !important; }
+a:hover { color: #ffcc00 !important; text-decoration: underline !important; }
 
 b, strong { font-weight: 600; }
 
@@ -382,6 +382,7 @@ pre { margin-top: 0; margin-bottom: 0; font-family: "SFMono-Regular", Consolas, 
 
 /* Set the text color to $text-gray-dark */
 .text-gray-dark { color: #24292e !important; }
+.text-gray-dark:hover{color: #ffcc00 !important;}
 
 /* Set the text color to $text-green */
 .text-green { color: #28a745 !important; }
@@ -406,10 +407,10 @@ pre { margin-top: 0; margin-bottom: 0; font-family: "SFMono-Regular", Consolas, 
 .bg-pending { color: #dbab09 !important; }
 
 .link-gray { color: white !important; }
-.link-gray:hover { color: #0366d6 !important; }
+.link-gray:hover { color: #ffcc00 !important; }
 
 .link-gray-dark { color: white !important; }
-.link-gray-dark:hover { color: #0366d6 !important; }
+.link-gray-dark:hover { color: #ffcc00 !important; }
 
 /* Set the link color to $text-blue on hover Useful when you want only part of a link to turn blue on hover */
 .link-hover-blue:hover { color: #0366d6 !important; }
